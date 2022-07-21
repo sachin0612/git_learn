@@ -4,7 +4,7 @@ https://whatsapp-chat-analyser-sachin.herokuapp.com/
 
 # All you need to do:
 
-  (i) Export your Whatsapp conversation to text file from your whatsapp.\n
+  (i) Export your Whatsapp conversation to text file from your whatsapp.
   (ii) Upload it to analyser.
   (iii) Click on show analysis.
   (iv) Now you can see your whatsapp chat analysis.
