@@ -1,5 +1,5 @@
 # Whatsapp_Chat_Analyser
-A python based web app project to analyze and visualize your Whatsapp group chats. The analysis includes most monthly timeline,Daily timeline,most busy users,wordcloud and most common words etc.This Project works on both single chatting as well as group chatting.The link of the project:-
+A python based web app project to analyze and visualize your Whatsapp group chats. The analysis includes monthly timeline,Daily timeline,most busy users,wordcloud and most common words etc.This Project works on both single chatting as well as group chatting.The link of the project:-
 https://whatsapp-chat-analyser-sachin.herokuapp.com/
 
 # All you need to do:
